@@ -1,4 +1,4 @@
-# Hello Wolrd!
+# Hello World!
 
 
 ![Jungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreativeMotion26&show_icons=true&theme=transparent)
