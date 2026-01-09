@@ -30,87 +30,26 @@ Currently focused on:
 
 ---
 
-## 🏗️ Featured Projects
-
-### 🧠 **Aussist – AI Agent + RAG Mobile App**
-> *AI Capstone Project – Expo + Python + AI Agent + Astra DB*
-
-- AI-powered mobile assistant for immigrants in Australia
-- Uses **AI Agent architecture + RAG pipeline**
-- Python backend with:
-  - `agent_model.py` (agent orchestration)
-  - `rag_astradb.py` (retrieval layer)
-  - `ingest.py` (knowledge ingestion)
-  - Astra DB vector database
-- React Native (Expo) frontend
-
-🔗 Repo: https://github.com/CreativeMotion26/AI-Capstone-Aussist
-
----
-
-### 🌊 **AI Rip Current Checker – Computer Vision Project**
-> *3D CNN + Video Analysis*
-
-- Detects rip currents from beach videos
-- Uses **3D Convolutional Neural Networks** to learn spatial + temporal patterns
-- Designed for beach safety & research use cases
-
-🔗 Repo: https://github.com/CreativeMotion26/AI-Rip-Current-Checker
-
----
-
-### 🤖 **HER – Conversational AI (SML Project)**
-> *Emotion-aware AI conversation system*
-
-- Inspired by the movie *Her*
-- Focus on **natural, emotionally intelligent dialogue**
-- Built in Python with NLP techniques
-
-🔗 Repo: https://github.com/CreativeMotion26/HER_Conversational-AI_SML
-
----
-
-### 📈 **Auto Trading Bot**
-> *Algorithmic trading system in Python*
-
-- Automated trading strategies
-- Market data analysis + execution logic
-
-🔗 Repo: https://github.com/CreativeMotion26/Auto_Trading
-
----
-
-### 📱 **Beyond+ / Student App (React Native)**
-> *Timetable · Community · Student Life Management*
-
-- React Native app for managing:
-  - Class schedules
-  - Activities
-  - Reviews
-- Strong UI/UX focus
-
-🔗 Repo: https://github.com/CreativeMotion26/project_beyondPlus_front
-
----
-
 ## 🛠️ Tech Stack
 
-**AI / ML**
-- Python, PyTorch, TensorFlow
-- CNN, 3D CNN, YOLO, NLP
-- RAG (Retrieval-Augmented Generation)
-- AI Agent architectures
+**AI / ML**                                                  
+- Python, PyTorch, TensorFlow                        
+- CNN, 3D CNN, YOLO, NLP                           
+- RAG (Retrieval-Augmented Generation)                        
+- AI Agent architectures                                    
 - Vector Databases (Astra DB)
 
-**Frontend**
+ **Frontend**      
 - React Native, Expo
 - TypeScript, JavaScript
-- Tailwind CSS
+- Next.js   
+- Tailwind CSS 
 
 **Backend**
 - Python (FastAPI / Flask style APIs)
 - REST APIs
 - AI pipelines
+- TypeScript (express, node.js)
 
 **Tools & Platforms**
 - Git, GitHub
