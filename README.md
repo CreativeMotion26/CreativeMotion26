@@ -64,6 +64,14 @@ Currently focused on:
 
 ---
 
+## Featured Project
+
+### [Hyperistic - AI Photo Editor for Business Images](https://hyperistic.pics/)
+
+Hyperistic helps e-commerce sellers, restaurants, real estate professionals, and content teams turn everyday photos into polished business visuals. Users can preview an AI edit before signup and batch-edit up to 30 images for product listings, menus, property pages, and social content.
+
+---
+
 ## 🧩 What I’m Interested In
 
 - Front-End Developer roles
@@ -79,6 +87,6 @@ Currently focused on:
 
 - 💼 LinkedIn: [linkedin.com/in/jungmin-kim-8a18a8194](https://www.linkedin.com/in/jungmin-kim-8a18a8194/)
 - 📧 Email: kjm4540@gmail.com
--    Website: https://hyperistic.pics
+- Hyperistic: [AI photo editor for business images](https://hyperistic.pics/)
 
 > Always open to collaboration, new ideas, and interesting product or AI projects.
